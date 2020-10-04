@@ -1,4 +1,9 @@
-.App {
+* {
+  margin: 0;
+}
+
+.todo__app {
+  margin-top: 20px;
   font-family: sans-serif;
   text-align: center;
 }
